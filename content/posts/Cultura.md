@@ -1,6 +1,6 @@
 ---
-title: "La cultura en el desarrollo de software"
-date: 2022-04-7
+title: "La cultura de un desarrollador"
+date: 2022-03-01
 description: '¿Qué es lo más importante para un desarrollad@r de software?'
 ---
 
