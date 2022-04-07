@@ -9,6 +9,11 @@
       "name": "github",
       "url": "https://github.com/GermanHv",
       "image": "images/social/github.svg"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/germ%C3%A1n-hv/"
+      "image": "images/social/linkedin.svg"
     }
   ]
 }
