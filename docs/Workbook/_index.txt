@@ -1,6 +1,5 @@
 ---
 title: 'Workbook'
-date: 2022-04-07
 menu:
   main:
     name: "Workbook"
