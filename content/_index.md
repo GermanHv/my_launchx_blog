@@ -10,10 +10,11 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 🚀
 
 ## Expectativas de mi viaje en Launch-X Back end
-- Conocer de bases de datos
-- Aprender del Sr. Javascript
-- Aplicar los aprendizajes en prácticas
-- Tener un impulso en desarrollo de software
+
+1. Conocer de bases de datos
+2. Aprender del Sr. Javascript
+3. Aplicar los aprendizajes en prácticas
+4. Tener un impulso en desarrollo de software
 
 
 ### Quién soy?
