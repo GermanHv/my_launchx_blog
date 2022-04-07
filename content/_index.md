@@ -15,8 +15,3 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 2. Aprender del Sr. Javascript
 3. Aplicar los aprendizajes en prácticas
 4. Tener un impulso en desarrollo de software
-
-
-### Quién soy?
-Bueno soy un estudiante de 1er año de ingeniería en informática, tengo 21 años y recién comienza mi viaje en el mundo de la tecnología.
-Me encantan los temas de IA y ciencia, me gusta jugar videojuegos. Mi sueño es tener un trabajo en el que pueda estudiar y trabajar :D
