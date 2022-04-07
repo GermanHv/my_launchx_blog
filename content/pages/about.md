@@ -5,17 +5,15 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## ¿Quién soy?
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> "Los obtáculos no bloquean
+> el camino;
+> son el **camino**"
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Germán Hv** 	Soy un estudiante de 1er año de ingeniería en informática, tengo 21 años y recién comienza mi viaje en el mundo de la tecnología.
+Me encantan los temas de IA y ciencia, me gusta jugar videojuegos. Mi sueño es tener un trabajo en el que pueda estudiar y trabajar 😁!
+
 
